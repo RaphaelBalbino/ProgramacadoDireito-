@@ -1,0 +1,50 @@
+Por via de regra, Data Centers consistem em um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistemas e aplicações. Essa estrutura geralmente reúne servidores, bancos de dados informatizados e componentes auxiliares, como storages e ativos de rede (switches e roteadores). 
+Atualmente, há diversos modelos de hospedagem desses equipamentos dos Centros de Processamentos de Dados (ou CPDs, como podem ser chamados em Português). Entre eles, vale destacar os principais:
+•	Tradicional ou ‘on-premise’: é quando toda a infraestrutura fica instalada dentro da empresa proprietária em um espaço dedicado. Toda a manutenção e gestão de segurança (física, patrimonial e cibernética) é realizada por uma equipe própria ou por parceiros contratados;
+•	Colocation: modelo no qual a empresa proprietária aluga (um rack, uma sala ou o prédio inteiro) e move seus equipamentos para um edifício construído e mantido por um provedor especializado em serviços de Data Center – como a ODATA, por exemplo. Nesse caso, toda a manutenção (energia, limpeza, arrefecimento, etc) e condições de segurança física e patrimonial são de responsabilidade do provedor. Contudo, a responsabilidade sobre o conteúdo inserido nesses equipamentos e sua proteção contra ataques virtuais é do proprietário, que deve dispor de tecnologias de segurança, como a criptografia de dados e firewalls, por exemplo;
+•	Cloud: nesse modelo, a empresa não utiliza equipamentos físicos. Ao contratar um serviço especializado, move seus dados e aplicações virtualmente para o Data Center do fornecedor que, nesse caso, é incumbido de manter e garantir toda a segurança física, patrimonial e cibernética – e responde legalmente por isso. No entanto, a empresa cliente permanece responsável por tudo o que roda nessa estrutura – especialmente os dados pessoais que coletou;
+•	Arquitetura Híbrida: nesse modelo, a empresa pode integrar todos esses modelos de acordo com a necessidade do negócio em termos de acessibilidade, latência, e/ ou criticidade da aplicação ou do conteúdo. Aqui, as atribuições de manutenção e segurança são divididas, de acordo com as especificações de cada modelo de contrato 
+Uma das funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Por isso, a infraestrutura de rede não pode ficar inoperante em razão de um problema de link de internet, por exemplo.
+Desse modo, o gestor da estrutura na qual estão hospedados os servidores precisa oferecer conexões redundantes, com mais de um fornecedor de rede.
+Então, considerando-se que o Data Center do controlador é o local onde rodam os sistemas nos quais são instalados e mantidos os dados, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
+E aqui vale a pena enfatizar, a título de esclarecimento, uma premissa: apesar de não atuarmos diretamente no processamento dos dados dos usuários, cabe a nós, provedores de infraestrutura, garantir a proteção física dos ambientes para a gestão segura das informações.
+os dados públicos são aqueles que são disponibilizados pelo governo para acesso geral. Esses dados podem ser de natureza variada, incluindo dados demográficos, dados econômicos e dados governamentais.
+Os dados públicos têm implicações significativas para os Data Centers, pois exigem que esses ambientes sejam projetados e operados de forma a garantir a privacidade e a segurança dos dados. Isso inclui medidas de segurança física, como controle de acesso e monitoramento de vídeo, bem como medidas de segurança cibernética, como firewalls e criptografia.
+Além disso, os Data Centers que hospedam dados públicos precisam atender a uma série de requisitos legais e regulatórios, como a Lei Geral de Proteção de Dados (LGPD). A LGPD estabelece uma série de princípios e obrigações para o tratamento de dados pessoais, incluindo a transparência, a finalidade e a segurança.
+A seguir, são apresentadas algumas das implicações relacionadas a dados públicos para Data Centers:
+•	Proteção física: Os Data Centers que hospedam dados públicos precisam ser fisicamente seguros, com controles de acesso rigorosos e monitoramento de vídeo. Isso ajuda a proteger os dados contra acesso não autorizado, roubo ou destruição.
+•	Segurança cibernética: Os Data Centers que hospedam dados públicos precisam contar com medidas de segurança cibernética robustas, como firewalls, criptografia e monitoramento de rede. Isso ajuda a proteger os dados contra ataques cibernéticos, como malware e ransomware.
+•	Requisitos legais e regulatórios: Os Data Centers que hospedam dados públicos precisam atender a uma série de requisitos legais e regulatórios, como a LGPD. Isso inclui a adoção de medidas de segurança e privacidade adequadas para proteger os dados pessoais.
+Além dessas implicações, os Data Centers que hospedam dados públicos também precisam considerar a seguinte questão:
+•	Acessibilidade: Os dados públicos devem ser acessíveis ao público em geral, de forma segura e eficiente. Isso significa que os Data Centers precisam fornecer um mecanismo de acesso aos dados que seja fácil de usar e que garanta a segurança dos dados.
+
+Fonte: Obard
+
+
+
+
+
+
+
+
+Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários. Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
+Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Por isso, diversos educadores estão equivocados ao não se importarem com o formato em que salvam seus arquivos. Alguns professores alegam que o software e seus formatos equivaleriam a um caderno de notas. Entretanto, um texto escrito em um caderno poderá ser lido daqui a vinte anos sem nenhuma necessidade especial de intermediação. Já um arquivo salvo em um formato específico só poderá ser aberto e lido por um software. Caso o software proprietário não dê mais suporte àquele formato, ele não poderá ser lido. Não se lê um formato como se lê um texto escrito em folhas de papel.
+Um formato aberto deve ser implementável tanto em software proprietário como em software livre, usando as licenças típicas de cada um. Em contraste o formato proprietário é controlado e defendido por interesses particulares da empresa detentora de seus direitos. Os formatos abertos são um subconjunto do padrão aberto.
+Para ser aberto um formato precisa ser baseado em padrões abertos. Deve ainda ser desenvolvido de forma transparente e de modo coletivo, tal como ocorre, por exemplo, com o HTML5. As especificações de um formato aberto devem estar documentadas e ser acessíveis para todos os interessados. Por fim, um formato aberto deve ser mantido independente de qualquer produto e não pode ter qualquer extensão proprietária que impeça seu uso livre. Padrões abertos, segundo Bruce Perens, é mais do que apenas uma especificação.
+um formato aberto é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador, que segue padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. Os formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade.
+Alguns exemplos de formatos abertos são:
+•	Documentos: ODF (OpenDocument Format), Markdown, LaTeX, DOCX (Office Open XML), RTF (Rich Text Format)
+•	Imagens: JPEG, PNG, SVG (Scalable Vector Graphics)
+•	Áudio: MP3, FLAC, OGG
+•	Vídeo: MPEG-4, WebM
+•	Codificação: Python, Java, JavaScript, C++
+•	Bancos de dados: MySQL, PostgreSQL, SQLite
+•	Modelos de dados: XML, JSON, YAML
+Os formatos abertos são importantes porque:
+•	Garantem a acessibilidade aos dados: Os formatos abertos podem ser usados por qualquer software, o que garante que os dados armazenados neles possam ser acessados por um longo período de tempo, mesmo que o software original não esteja mais disponível.
+•	Promovem a interoperabilidade: Os formatos abertos permitem que diferentes softwares se comuniquem entre si, o que facilita a troca de dados.
+•	Estimulam a inovação: Os formatos abertos são desenvolvidos de forma aberta e coletiva, o que incentiva a participação de diferentes pessoas e organizações na sua criação e desenvolvimento.
+Os formatos proprietários, por outro lado, são controlados por uma empresa ou organização específica, e suas especificações não são publicadas. Isso significa que os formatos proprietários podem ser acessados apenas por softwares desenvolvidos pela empresa que os detém, o que pode limitar a acessibilidade aos dados e a interoperabilidade entre softwares.
+É importante usar formatos abertos sempre que possível, para garantir a acessibilidade aos dados e a interoperabilidade entre softwares.
+
+Fonte: FioCruz
