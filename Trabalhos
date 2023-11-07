@@ -21,12 +21,6 @@ Além dessas implicações, os Data Centers que hospedam dados públicos também
 Fonte: Obard
 
 
-
-
-
-
-
-
 Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários. Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
 Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Por isso, diversos educadores estão equivocados ao não se importarem com o formato em que salvam seus arquivos. Alguns professores alegam que o software e seus formatos equivaleriam a um caderno de notas. Entretanto, um texto escrito em um caderno poderá ser lido daqui a vinte anos sem nenhuma necessidade especial de intermediação. Já um arquivo salvo em um formato específico só poderá ser aberto e lido por um software. Caso o software proprietário não dê mais suporte àquele formato, ele não poderá ser lido. Não se lê um formato como se lê um texto escrito em folhas de papel.
 Um formato aberto deve ser implementável tanto em software proprietário como em software livre, usando as licenças típicas de cada um. Em contraste o formato proprietário é controlado e defendido por interesses particulares da empresa detentora de seus direitos. Os formatos abertos são um subconjunto do padrão aberto.
@@ -46,5 +40,68 @@ Os formatos abertos são importantes porque:
 •	Estimulam a inovação: Os formatos abertos são desenvolvidos de forma aberta e coletiva, o que incentiva a participação de diferentes pessoas e organizações na sua criação e desenvolvimento.
 Os formatos proprietários, por outro lado, são controlados por uma empresa ou organização específica, e suas especificações não são publicadas. Isso significa que os formatos proprietários podem ser acessados apenas por softwares desenvolvidos pela empresa que os detém, o que pode limitar a acessibilidade aos dados e a interoperabilidade entre softwares.
 É importante usar formatos abertos sempre que possível, para garantir a acessibilidade aos dados e a interoperabilidade entre softwares.
-
 Fonte: FioCruz
+
+refere-se à abertura de um inquérito civil pela Procuradoria da República em Minas Gerais para investigar se o INSS (Instituto Nacional de Seguro Social) está negando pedidos de aposentadoria com base, apenas, em um sistema automatizado.
+
+A investigação foi aberta a partir da denúncia de um cidadão indicando possíveis irregularidades na negativa de requerimentos de benefícios previdenciários e assistenciais supostamente causada por um sistema automatizado, que não estaria observando o mérito de forma adequada.
+
+O procurador da República Angelo Giardini de Oliveira, que assina a peça, argumenta haver necessidade de obter mais informações sobre sistema informatizado e seu regular funcionamento.
+
+De acordo com o INSS, cerca de 30% dos pedidos passam pelo sistema informatizado. Em outubro do ano passado, por exemplo, foram 159 mil decisões.
+
+O sistema foi implementado com o objetivo de diminuir a fila e agilizar as respostas aos beneficiários. Procurado, o INSS afirma que a automatização não alterou o percentual de benefício negados.
+
+Do ponto de vista jurídico, é importante que o INSS garanta que os pedidos de aposentadoria sejam analisados de forma justa e imparcial. O sistema automatizado deve ser usado como uma ferramenta para agilizar o processo, mas não deve substituir o julgamento humano.
+
+Se o sistema estiver sendo usado para negar pedidos de aposentadoria de forma indevida, o INSS poderá ser responsabilizado civil e criminalmente.
+
+Acredito que a abertura de um inquérito civil pela Procuradoria da República é um passo importante para garantir que os direitos dos aposentados sejam respeitados.
+
+
+Análise de crédito pode usar algoritmos?
+
+Sim, a análise de crédito pode usar algoritmos. Os algoritmos são uma forma de inteligência artificial que podem ser usados para processar grandes quantidades de dados e tomar decisões. No caso da análise de crédito, os algoritmos podem ser usados para avaliar o risco de inadimplência de um cliente.
+
+Os algoritmos de análise de crédito são baseados em uma série de fatores, como o histórico de crédito do cliente, suas dívidas atuais, sua renda e sua ocupação. Os algoritmos também podem levar em consideração outros fatores, como a idade do cliente, seu estado civil e sua educação.
+
+Os algoritmos de análise de crédito são uma ferramenta valiosa para os credores, pois podem ajudá-los a tomar decisões mais informadas sobre quem deve receber crédito e em que condições. No entanto, é importante lembrar que os algoritmos não são perfeitos. Eles podem levar a erros, especialmente quando são usados para avaliar pessoas que não estão representadas nos dados em que foram treinados.
+
+Negativa de crédito precisa ser justificada?
+
+Sim, a negativa de crédito precisa ser justificada. O Código de Defesa do Consumidor (CDC) diz que os credores devem informar ao cliente os motivos da negativa de crédito. O cliente também tem o direito de pedir uma segunda análise de crédito.
+
+Se o cliente for negado crédito sem justificativa, ele pode entrar com uma ação judicial contra o credor. O CDC prevê a indenização por danos morais e materiais causados pela negativa de crédito indevida.
+
+Referências:
+
+Código de Defesa do Consumidor (CDC)
+Lei n. 8.078, de 11 de setembro de 1990
+Artigo 7º, inciso X do CDC
+Artigo 14 do CDC
+Articulação com a emanta de disciplina:
+
+As questões abordadas nesta resposta estão relacionadas à emanta da disciplina de Direito do Consumidor. A análise de crédito é uma atividade comercial que envolve a coleta e a utilização de dados pessoais dos consumidores. A negativa de crédito é uma forma de restrição ao acesso ao crédito, que pode ter um impacto negativo na vida do consumidor.
+
+O CDC protege os consumidores contra práticas comerciais abusivas, como a negativa de crédito indevida. O CDC também prevê a indenização por danos morais e materiais causados pela violação dos direitos dos consumidores.
+
+Os consumidores que forem negados crédito indevidamente devem procurar orientação jurídica para saber como proteger seus direitos.
+
+
+Uma rede neural é um método de inteligência artificial que ensina computadores a processar dados de uma forma inspirada pelo cérebro humano. É um tipo de processo de machine learning, chamado aprendizado profundo, que usa nós ou neurônios interconectados em uma estrutura em camadas, semelhante ao cérebro humano. 
+
+Fonte: Amazon Aws
+
+Processo de negócio: Um processo de negócio, processo organizacional ou método de negócio é um conjunto de atividades ou tarefas estruturadas relacionadas que produzem um serviço ou produto específico para seus clientes ou para um cliente particular. 
+
+fonte: Wikipedia 
+
+Servidor: Um servidor, em suma, é um computador com grande capacidade de armazenamento e processamento cujo objetivo é conectar outros computadores através de uma rede.
+
+fonte: Kenzie 
+
+Jurimetria: Jurimetria é a estatística aplicada ao direito, em uma análise simples e direta. Tem sido utilizada em conjunto com softwares jurídicos num modelo de tentar prever resultados e oferecer (daí a questão estatística) probabilidades e valores envolvidos nestas análises.
+
+Fonte: Projuris
+
+
